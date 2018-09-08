@@ -1,6 +1,6 @@
 <template>
-    <div>
-
+    <div class="main-area">
+        <span>content</span>
     </div>
 </template>
 
@@ -10,7 +10,9 @@
 
         },
         data() {
+            return {
 
+            }
         },
         components: {
 
@@ -22,5 +24,9 @@
 </script>
 
 <style scoped="scss" rel="stylesheet/scss">
-
+    .main-area {
+        width: 100%;
+        /*height: auto;*/
+        /*overflow: hidden;*/
+    }
 </style>

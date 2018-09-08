@@ -1,23 +1,18 @@
 <template>
+    <!--用户-->
     <div>
-
+        用户
     </div>
 </template>
 
 <script>
     export default {
-        props: {
-
-        },
+        props: {},
         data() {
-
+            return {}
         },
-        components: {
-
-        },
-        methods: {
-
-        }
+        components: {},
+        methods: {}
     }
 </script>
 
